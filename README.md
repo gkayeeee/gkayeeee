@@ -1,5 +1,5 @@
 - 👋 @gkayeeee
-- 👀 
+- 👀 let`s link
 - 🌱 learning Front-End Development
 - 📫 insta @gkrajes___
 
