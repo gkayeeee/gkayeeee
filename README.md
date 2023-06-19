@@ -1,7 +1,7 @@
 - 👋 @gkayeeee
 - 👀 let`s link
 - 🌱 learning Front-End Development
-- 📫 insta @gkrajes___
+- 📫 insta @gkrajesh___
 
 <!--- 💞️ I’m looking to collaborate on ...-->
 
